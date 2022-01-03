@@ -32,6 +32,7 @@
 
 # Diagramme UML
 
-![image](https://user-images.githubusercontent.com/52652122/146132912-b025ac79-2723-4083-acaa-6e29087f6312.png)
+![image](https://user-images.githubusercontent.com/52652122/147919746-7f3a00a1-49f0-441d-bc11-04b417bd2747.png)
+
 
    
