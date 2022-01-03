@@ -18,16 +18,17 @@
     http://127.0.0.1:8000/api
     
 
-# Créer la base de données
-
-- php bin/console doctrine:database:create
-- php bin/console doctrine:migrations:migrate
-
-# Lignes de commandes :
+# Lignes de commandes initialisation du projet:
 
  - git clone ......
 
  - composer install 
+
+
+# Créer la base de données
+
+- php bin/console doctrine:database:create
+- php bin/console doctrine:migrations:migrate
 
 # Diagramme UML
 
